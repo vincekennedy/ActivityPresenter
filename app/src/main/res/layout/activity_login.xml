@@ -8,10 +8,10 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.mlb.rxplayground.LoginPresenter">
+    tools:context="com.mlb.rxplayground.alt.AltLoginActivity">
 
-    <com.mlb.rxplayground.LoginView
-        android:id="@+id/view_logi"
+    <com.mlb.rxplayground.alt.LoginView
+        android:id="@+id/view_login"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
 
